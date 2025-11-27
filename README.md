@@ -2,6 +2,8 @@
 
 Welcome to the support page for National Honor Society: Manage. This page provides essential information about our app, including FAQs, privacy policy, and terms of service.
 
+© 2025 National Honor Society: Manage. All rights reserved.
+
 ## Key Information
 
 - **App Name**: National Honor Society: Manage
