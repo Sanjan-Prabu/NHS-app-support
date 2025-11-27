@@ -1,48 +1,28 @@
-# NHS App Support Website
+# National Honor Society: Manage - Support
 
-This is the support website for the NHS App, hosted on GitHub Pages.
+Welcome to the support page for National Honor Society: Manage. This page provides essential information about our app, including FAQs, privacy policy, and terms of service.
 
-## Files
+## Key Information
 
-- `index.html` - Main support page with FAQs and contact info
-- `privacy.html` - Privacy policy page (paste your generated policy here)
-- `terms.html` - Terms of service page
-- `styles.css` - Minimal styling for all pages
+- **App Name**: National Honor Society: Manage
+- **Support Page**: [https://sanjan-prabu.github.io/NHS-app-support](https://sanjan-prabu.github.io/NHS-app-support)
 
-## Setup Instructions
+## About This Page
 
-### 1. Push to GitHub
+This support site contains important information about using our app, including:
 
-1. Create a new repository on GitHub (e.g., `nhs-app-support`)
-2. Push these files to the repository:
+- **FAQs**: Answers to common questions about features and functionality
+- **Privacy Policy**: Details about how we handle your personal information
+- **Terms of Service**: The legal terms governing app usage
 
-```bash
-cd /Users/sanjanprabu/Documents/NationalHonorSociety
-git add docs/
-git commit -m "Add support website"
-git push origin main
-```
+## Contact Support
 
-### 2. Enable GitHub Pages
-
-1. Go to your repository on GitHub
-2. Click **Settings** → **Pages**
-3. Under "Source", select **main** branch and **/docs** folder
-4. Click **Save**
-5. Your site will be live at: `https://[your-username].github.io/[repo-name]/`
-
-### 3. Add Privacy Policy
-
-Once you generate your privacy policy:
-1. Open `docs/privacy.html`
-2. Replace the placeholder content with your full privacy policy
-3. Commit and push the changes
+For any questions or assistance, please contact us at: nhsapp.support@gmail.com
 
 ## Support URL
 
 Use this URL in App Store Connect:
-```
-https://[your-username].github.io/[repo-name]/
+https://sanjan-prabu.github.io/NHS-app-support
 ```
 
 ## Contact Email
