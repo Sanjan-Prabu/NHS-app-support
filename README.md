@@ -19,7 +19,7 @@ This support site contains important information about using our app, including:
 
 ## Contact Support
 
-For any questions or assistance, please contact us at: nhsapp.support@gmail.com
+For any questions or assistance, please contact us at: contact.nhsapp@gmail.com
 
 ## Support URL
 
@@ -29,4 +29,4 @@ https://sanjan-prabu.github.io/NHS-app-support
 
 ## Contact Email
 
-Support email: nhsapp.support@gmail.com
+Support email: contact.nhsapp@gmail.com
